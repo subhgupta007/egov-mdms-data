@@ -191,10 +191,9 @@
 		"FinancialYear": {
 			"masterName": "FinancialYear",
 			"moduleDefinition": null,
-			"isStateLevel": false,
+			"isStateLevel": true,
 			"uniqueKeys": [
 				"$.code",
-				"$.tenantId",
 				"$.module"
 			]
 		}
