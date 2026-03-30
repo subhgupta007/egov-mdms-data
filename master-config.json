@@ -194,7 +194,8 @@
 			"isStateLevel": false,
 			"uniqueKeys": [
 				"$.code",
-				"$.tenantId"
+				"$.tenantId",
+				"$.module"
 			]
 		}
 	},
